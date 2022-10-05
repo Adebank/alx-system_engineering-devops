@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -na/current/parent/boot
+ls -al . .. /boot
