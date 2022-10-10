@@ -12,3 +12,4 @@ print hello world
 12-newest_files script to print the 10 newest file in the current directories
 13-unique script to print only words that appear once in a list of words
 14-findthatword script to find the pattern root from the file /etc/passwd
+15-countthatword script to display the number of lines that contains the pattern bin in /etc/passwd
