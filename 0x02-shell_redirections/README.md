@@ -18,3 +18,4 @@ print hello world
 18-letteronly script to display all lines beginning with letter
 19-AZ script to replace all characters A and c from input to Z and e
 20-hiago script to remove all letters c and C from input
+21-reverse script to reverse input
