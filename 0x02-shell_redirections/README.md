@@ -6,3 +6,4 @@ print hello world
 5-firstlines script to display the first 10 lines of /etc/passwd
 6-third_line script to print the third line of file iacta
 8-cwd_state script that writes into the file ls_cwd_content the result of the command ls -la
+9-duplicate_last_line script to duplicate the last line of file iacta
