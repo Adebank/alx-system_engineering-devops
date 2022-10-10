@@ -1,1 +1,1 @@
-shell_redirections_script
+print hello world
