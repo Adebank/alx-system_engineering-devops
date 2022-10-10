@@ -19,3 +19,4 @@ print hello world
 19-AZ script to replace all characters A and c from input to Z and e
 20-hiago script to remove all letters c and C from input
 21-reverse script to reverse input
+22-users_and_homes script that display all users and their home directories
