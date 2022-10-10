@@ -10,3 +10,4 @@ print hello world
 10-no_more_js script to delete all the regular files with a .js extention
 11-directories script that count the number of directories and sub-directories
 12-newest_files script to print the 10 newest file in the current directories
+13-unique script to print only words that appear once in a list of words
