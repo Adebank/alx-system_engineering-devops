@@ -9,3 +9,4 @@ print hello world
 9-duplicate_last_line script to duplicate the last line of file iacta
 10-no_more_js script to delete all the regular files with a .js extention
 11-directories script that count the number of directories and sub-directories
+12-newest_files script to print the 10 newest file in the current directories
