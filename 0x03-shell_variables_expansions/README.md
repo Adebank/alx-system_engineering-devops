@@ -9,3 +9,4 @@
 8-true_knowledge script that print the result ofsum of 128 and TRUEKNOWLEDGE
 9-divide_and_rule script that prints the result of POWER divided by DIVIDE
 10-love_exponent_breath script that displays the result of BREATH to the power of LOVE
+12-combinations script that prints all combinations of two letters
