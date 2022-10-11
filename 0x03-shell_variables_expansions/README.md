@@ -10,3 +10,4 @@
 9-divide_and_rule script that prints the result of POWER divided by DIVIDE
 10-love_exponent_breath script that displays the result of BREATH to the power of LOVE
 12-combinations script that prints all combinations of two letters
+13-print_float script that print a number with two decimal places followed by a new line
