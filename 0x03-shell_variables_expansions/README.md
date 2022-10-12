@@ -11,3 +11,7 @@
 10-love_exponent_breath script that displays the result of BREATH to the power of LOVE
 12-combinations script that prints all combinations of two letters
 13-print_float script that print a number with two decimal places followed by a new line
+100-decimal_to_hexadecimal script that converts a number DECIMAL from base 10 to base 16
+101-rot13 script that encodes and decodes text using the rot13 encrytion
+102-odd scriptthat prints every other line from the input,starting with the first line
+103-water_and_stir script that adds two numbers stored in the environment WATER and STIR and prints the result
